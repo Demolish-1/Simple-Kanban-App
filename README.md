@@ -1,8 +1,8 @@
-# Simple-Kanban-App
+# 📋Simple-Kanban-App✔️
 Bare Bones Kanban app
 
 ***Description***
-- creates task objects and assigns them a unique code/identifier .
+- creates task objects and assigns them a unique code/identifier.
   
 
 ***Features***
@@ -14,6 +14,6 @@ Bare Bones Kanban app
 
 
 
-***Comming Soon***
+***🕒Comming Soon💭***
 
 - show report button.
